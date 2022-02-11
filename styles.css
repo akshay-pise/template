@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 1vw;
+}
+.contai-manual {
+  border: 1px solid black;
+  height: 600px;
+}
+
+.row1 {
+  text-align: center;
+  border-radius: 5px;
+  margin: 10px 0px;
+  padding: 10px 5px;
+}
+.button-crwp {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 100%;
+  padding: 15px 0px;
+}
+.hea {
+  font-size: 2vw;
+}
+.button {
+  font-size: 1.5vm;
+  color: black;
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+}
+.button:hover {
+  color: black;
+  text-decoration: none;
+}
