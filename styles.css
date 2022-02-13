@@ -5,7 +5,8 @@
 }
 .contai-manual {
   border: 1px solid black;
-  height: 600px;
+  height: 500px;
+  margin: 50px;
 }
 
 .row1 {
@@ -27,6 +28,7 @@
   font-size: 1.5vm;
   color: black;
   margin: auto;
+  width: 100px;
   text-align: center;
   text-decoration: none;
 }
